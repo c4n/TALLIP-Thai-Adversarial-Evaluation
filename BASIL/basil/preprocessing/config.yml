@@ -1,0 +1,11 @@
+Best2010:
+    file_path: "corpora/BEST2010/training_set/*/*.txt"
+Best2010NECTEC:
+    train_file_path: "corpora/BEST2010_I2R/Train/*.txt"
+    val_file_path: "corpora/BEST2010_I2R/Dev/*.txt"
+    test_file_path: "corpora/BEST2010_I2R/Test/*.txt"
+
+BestSyllable2010NECTEC:
+    train_file_path: "corpora/BEST2010_I2R/Train_syllable/*.txt"
+    val_file_path: "corpora/BEST2010_I2R/Dev_syllable/*.txt"
+    test_file_path: "corpora/BEST2010_I2R/Test_syllable/*.txt"
